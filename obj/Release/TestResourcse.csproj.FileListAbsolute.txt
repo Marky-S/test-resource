@@ -1,0 +1,9 @@
+J:\libs\TestResourcse\bin\Release\TestResourcse.net.dll
+J:\libs\TestResourcse\bin\Release\TestResourcse.net.pdb
+J:\libs\TestResourcse\bin\Release\CitizenFX.Core.Client.dll
+J:\libs\TestResourcse\bin\Release\CitizenFX.Core.Client.xml
+J:\libs\TestResourcse\obj\Release\TestResourcse.csproj.AssemblyReference.cache
+J:\libs\TestResourcse\obj\Release\TestResourcse.csproj.CoreCompileInputs.cache
+J:\libs\TestResourcse\obj\Release\TestResourcse.csproj.CopyComplete
+J:\libs\TestResourcse\obj\Release\TestResourcse.net.dll
+J:\libs\TestResourcse\obj\Release\TestResourcse.net.pdb
