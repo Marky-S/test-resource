@@ -7,3 +7,12 @@ J:\libs\TestResourcse\obj\Debug\TestResourcse.csproj.CoreCompileInputs.cache
 J:\libs\TestResourcse\obj\Debug\TestResourcse.csproj.CopyComplete
 J:\libs\TestResourcse\obj\Debug\TestResourcse.net.dll
 J:\libs\TestResourcse\obj\Debug\TestResourcse.net.pdb
+J:\libs\test-resource\bin\Debug\TestResourcse.net.dll
+J:\libs\test-resource\bin\Debug\TestResourcse.net.pdb
+J:\libs\test-resource\bin\Debug\CitizenFX.Core.Client.dll
+J:\libs\test-resource\bin\Debug\CitizenFX.Core.Client.xml
+J:\libs\test-resource\obj\Debug\TestResourcse.csproj.AssemblyReference.cache
+J:\libs\test-resource\obj\Debug\TestResourcse.csproj.CoreCompileInputs.cache
+J:\libs\test-resource\obj\Debug\TestResourcse.csproj.CopyComplete
+J:\libs\test-resource\obj\Debug\TestResourcse.net.dll
+J:\libs\test-resource\obj\Debug\TestResourcse.net.pdb
